@@ -1,4 +1,4 @@
-# Data-analysis-and-visulaization-on-Netflix-Dataset
+# Data-Analysis-and-visulaization-on-Netflix-Dataset
 
 In this project I have worked with Netflix dataset and do some analysis with the use of python programming. This netflix data set is based on Movies and Tv shows.
 
